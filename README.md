@@ -1,6 +1,6 @@
 # MERN SMART BILLS- Inventory Management & Invoicing
 
-Welcome to my comprehensive MERN-based Business Software solution for efficient inventory management and invoicing. Our application provides a user-friendly interface for adding products to your inventory, creating invoices, managing customers, and generating professional invoices with ease. It operates in real-time, ensuring your data is always up to date.
+Welcome to my comprehensive MERN-based Business Software(SMART BILLS) solution for efficient inventory management and invoicing. Our application provides a user-friendly interface for adding products to your inventory, creating invoices, managing customers, and generating professional invoices with ease. It operates in real-time, ensuring your data is always up to date.
 
 ## Features
 
@@ -57,4 +57,6 @@ Make sure to configure the backend server, MongoDB, and API endpoints as needed 
 3. Capture customer details during invoice creation, which are stored in the customer database for future use.
 4. Generate professional invoices with tax and GST.
 5. View and print invoices in the Invoices tab.
-MADE WITH LOVE BY PIYUSH !!!
+
+
+MADE WITH ❤️ BY PIYUSH !!!
